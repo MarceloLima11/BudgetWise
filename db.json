@@ -7,8 +7,33 @@
         "id": "2",
         "name": "Development"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 4444,
+      "services": [
+        {
+          "name": "Unknown Poetry",
+          "cost": "1111",
+          "description": "aaaaaaaaaaaa",
+          "id": "da212dda-895b-4707-a49d-21bd7ccc53ec"
+        },
+        {
+          "name": "Unknown Poetry",
+          "cost": "1111",
+          "description": "aaaaaaaaaaaa",
+          "id": "da212dda-895b-4707-a49d-21bd7ccc53ec"
+        },
+        {
+          "name": "Unknown Poetry",
+          "cost": "1111",
+          "description": "aaaaaaaaaaaa",
+          "id": "da212dda-895b-4707-a49d-21bd7ccc53ec"
+        },
+        {
+          "name": "Unknown Poetry",
+          "cost": "1111",
+          "description": "aaaaaaaaaaaa",
+          "id": "da212dda-895b-4707-a49d-21bd7ccc53ec"
+        }
+      ],
       "id": 1
     },
     {
