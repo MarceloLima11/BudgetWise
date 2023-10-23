@@ -17,23 +17,22 @@ function ProjectForm({ handleSubmit, btnText, projectData }) {
             },
         }).then(resp => resp.json()).then(data => {
             setCategories(data)
-        }).catch((err) => console.log(err))
+        })
     }, []);
 
     const submit = (e) => {
         e.preventDefault();
-        console.log(project);
-        //handleSubmit(project);
+        handleSubmit(project);
     }
 
     function handleChange(e) {
         setProject({ ...project, [e.target.name]: e.target.value });
-        console.log(project);
     }
 
     function handleCategory(e) {
         setProject({
-            ...project, category: {
+            ...project,
+            category: {
                 id: e.target.value,
                 name: e.target.options[e.target.selectedIndex].text,
             }
@@ -63,7 +62,7 @@ function ProjectForm({ handleSubmit, btnText, projectData }) {
                 text="Select an category"
                 options={categories}
                 handleOnChange={handleCategory}
-                value={project.category}
+                value={project.category ? project.category.id : ''}
             />
 
             <SubmitButton text={btnText} />
