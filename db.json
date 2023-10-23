@@ -1,50 +1,5 @@
 {
-  "projects": [
-    {
-      "name": "digi",
-      "budget": "213213",
-      "category": {
-        "id": "2",
-        "name": "Development"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "digi",
-      "budget": "213213",
-      "category": {
-        "id": "4",
-        "name": "Planning"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "AAAAAAAAAAA",
-      "budget": "23322",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "Marcelo",
-      "budget": "23323",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,
