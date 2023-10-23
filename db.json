@@ -1,5 +1,39 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "name": "Marcelo L Silva",
+      "budget": "966",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Unknown Poetry",
+      "budget": "8996",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "digi",
+      "budget": "96423",
+      "category": {
+        "id": "4",
+        "name": "Planning"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    }
+  ],
   "categories": [
     {
       "id": 1,
