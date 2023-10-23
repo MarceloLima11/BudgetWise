@@ -80,6 +80,7 @@ function Project() {
                             </div>
                         ) : (<div className={styles.project_info}>
                             <ProjectForm handleSubmit={editPost} btnText="Finish editing" projectData={project} />
+                            <p>form</p>
                         </div>)}
                     </div>
                 </Container>
