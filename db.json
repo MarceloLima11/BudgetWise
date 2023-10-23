@@ -1,18 +1,18 @@
 {
   "projects": [
     {
-      "name": "Marcelo L Silva",
-      "budget": "966",
+      "name": "DMO Wiki",
+      "budget": "10001",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "2",
+        "name": "Development"
       },
       "cost": 0,
       "services": [],
       "id": 1
     },
     {
-      "name": "Unknown Poetry",
+      "name": "Unknown Poetry2",
       "budget": "8996",
       "category": {
         "id": "3",
