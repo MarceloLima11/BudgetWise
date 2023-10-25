@@ -7,39 +7,8 @@
         "id": "2",
         "name": "Development"
       },
-      "cost": 5272,
-      "services": [
-        {
-          "name": "Unknown Poetry",
-          "cost": "120",
-          "description": "aaaaaaaaaaaa",
-          "id": "c86b4efa-43fe-454f-a541-6afd8ab4e794"
-        },
-        {
-          "name": "Unknown Poetry",
-          "cost": "120",
-          "description": "aaaaaaaaaaaa",
-          "id": "c86b4efa-43fe-454f-a541-6afd8ab4e794"
-        },
-        {
-          "name": "23",
-          "cost": "120",
-          "description": "dsa",
-          "id": "f8b2280b-1904-4666-be99-b09ac27c0362"
-        },
-        {
-          "name": "23",
-          "cost": "234",
-          "description": "dsadasdas",
-          "id": "5549ee8b-7855-44c6-83c5-f0b5019115de"
-        },
-        {
-          "name": "23",
-          "cost": "234",
-          "description": "dsadasdas",
-          "id": "5549ee8b-7855-44c6-83c5-f0b5019115de"
-        }
-      ],
+      "cost": 4444,
+      "services": [],
       "id": 1
     },
     {
